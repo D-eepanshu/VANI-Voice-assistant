@@ -1,0 +1,300 @@
+[
+  {
+    "intent": "search_wikipedia",
+    "examples": [
+      "tell me about Python",
+      "who is Elon Musk",
+      "search for Albert Einstein",
+      "give me information on Newton",
+      "what do you know about Tesla",
+      "look up Marie Curie",
+      "search the web for Einstein",
+      "find details about the French Revolution",
+      "I want to know about World War 2",
+      "what is the history of India"
+    ]
+  },
+  {
+    "intent": "play_music",
+    "examples": [
+      "play music",
+      "I want to hear a song",
+      "play a song",
+      "start the music",
+      "put on some music",
+      "can you play a song",
+      "I feel like listening to music",
+      "let’s listen to some tunes",
+      "play something relaxing",
+      "play a random track"
+    ]
+  },
+  {
+    "intent": "open_youtube",
+    "examples": [
+      "open YouTube",
+      "start YouTube",
+      "launch YouTube",
+      "go to YouTube",
+      "can you open YouTube",
+      "take me to YouTube",
+      "I want to browse YouTube",
+      "show me YouTube",
+      "start the YouTube app",
+      "open the YouTube website"
+    ]
+  },
+  {
+    "intent": "get_time",
+    "examples": [
+      "what time is it",
+      "tell me the time",
+      "current time",
+      "what’s the time now",
+      "give me the time",
+      "check time",
+      "show me the clock",
+      "do you know the time",
+      "tell the current hour",
+      "can you say the time"
+    ]
+  },
+  {
+    "intent": "control_youtube",
+    "examples": [
+      "pause video",
+      "play video",
+      "mute the video",
+      "unmute",
+      "next video",
+      "full screen",
+      "resume the video",
+      "go to the next video",
+      "start full screen",
+      "toggle mute",
+      "exit full screen",
+      "skip this video"
+    ]
+  },
+  {
+    "intent": "change_voice",
+    "examples": [
+      "change to female voice",
+      "switch to male voice",
+      "change voice to female",
+      "can you speak like a man",
+      "use a woman's voice",
+      "I want a male voice",
+      "use female tone",
+      "switch voice gender",
+      "switch to girl's voice",
+      "activate male voice"
+    ]
+  },
+  {
+    "intent": "send_email",
+    "examples": [
+      "send an email to Deepanshu",
+      "find Deepanshu",
+      "send email",
+      "compose an email",
+      "email Deepanshu",
+      "send message via mail",
+      "I want to email my friend",
+      "write an email to boss",
+      "can you send an email",
+      "email someone"
+    ]
+  },
+  {
+    "intent": "exit",
+    "examples": [
+      "exit",
+      "quit",
+      "goodbye",
+      "close the app",
+      "terminate the program",
+      "shut down",
+      "turn off",
+      "stop listening",
+      "end session",
+      "close everything"
+    ]
+  },
+  {
+    "intent": "open_google",
+    "examples": [
+      "open Google",
+      "launch Google",
+      "go to Google",
+      "open the Google homepage",
+      "take me to Google",
+      "search something on Google",
+      "I want to browse Google"
+    ]
+  },
+  {
+    "intent": "weather_forecast",
+    "examples": [
+      "what's the weather today",
+      "tell me the weather",
+      "weather report",
+      "do I need an umbrella today",
+      "is it going to rain",
+      "give me today's weather",
+      "weather update please"
+    ]
+  },
+  {
+    "intent": "tell_joke",
+    "examples": [
+      "tell me a joke",
+      "make me laugh",
+      "say something funny",
+      "I want to hear a joke",
+      "give me a funny joke",
+      "can you tell a joke"
+    ]
+  },
+  {
+    "intent": "set_reminder",
+    "examples": [
+      "remind me to take medicine",
+      "set a reminder",
+      "I need a reminder",
+      "remind me at 5 PM",
+      "can you remind me tomorrow",
+      "add a reminder for my class"
+    ]
+  },
+  {
+    "intent": "open_camera",
+    "examples": [
+      "open the camera",
+      "start camera",
+      "turn on my camera",
+      "launch the webcam",
+      "activate the camera"
+    ]
+  },
+  {
+    "intent": "read_news",
+    "examples": [
+      "read the latest news",
+      "what's in the news today",
+      "any breaking news",
+      "show me today's headlines",
+      "give me the news update"
+    ]
+  },
+  {
+    "intent": "take_screenshot",
+    "examples": [
+      "take a screenshot",
+      "capture my screen",
+      "snap this window",
+      "screenshot now",
+      "save a screen image"
+    ]
+  },
+  {
+    "intent": "open_calculator",
+    "examples": [
+      "open calculator",
+      "launch the calculator",
+      "start calculator",
+      "can you open calculator",
+      "use calculator"
+    ]
+  },
+  {
+    "intent": "set_alarm",
+    "examples": [
+      "set an alarm for 7 AM",
+      "wake me up at 6",
+      "alarm for tomorrow morning",
+      "can you set an alarm",
+      "remind me at 8 with an alarm"
+    ]
+  },
+  {
+    "intent": "system_status",
+    "examples": [
+      "how's my battery",
+      "check battery status",
+      "system info please",
+      "show me system health",
+      "CPU usage info"
+    ]
+  },
+  {
+    "intent": "shutdown_system",
+    "examples": [
+      "shut down my system",
+      "turn off the computer",
+      "power off",
+      "shutdown now",
+      "can you turn off my laptop"
+    ]
+  },
+  {
+    "intent": "increase_volume",
+    "examples": [
+      "increase the volume",
+      "volume up",
+      "make it louder",
+      "raise the sound",
+      "turn the volume higher"
+    ]
+  },
+  {
+    "intent": "decrease_volume",
+    "examples": [
+      "lower the volume",
+      "volume down",
+      "reduce the sound",
+      "make it quieter",
+      "decrease the volume"
+    ]
+  },
+  {
+    "intent": "open_maps",
+    "examples": [
+      "open Google Maps",
+      "launch maps",
+      "start navigation",
+      "show me directions",
+      "find a route to Delhi"
+    ]
+  },
+  {
+    "intent": "take_note",
+    "examples": [
+      "take a note",
+      "write this down",
+      "remember this",
+      "make a note",
+      "create a quick note"
+    ]
+  },
+  {
+    "intent": "translate_text",
+    "examples": [
+      "translate this to Hindi",
+      "how do you say hello in French",
+      "convert this to Spanish",
+      "translate my sentence",
+      "can you translate this"
+    ]
+  },
+  {
+    "intent": "define_word",
+    "examples": [
+      "define algorithm",
+      "what does empathy mean",
+      "give me the definition of AI",
+      "what is recursion",
+      "explain the word intelligent"
+    ]
+  }
+]
